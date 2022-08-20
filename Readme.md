@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gitesh Sakharkar</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">Learning Data Structure and Algorithm/h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gvs9&label=Profile%20views&color=0e75b6&style=flat" alt="gvs9" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Python REST API CRUD Example using Flask and MySQL**
 
-- 🌱 I’m currently learning **javascript ,python & DataStructure and Algorithmm**
+- 🌱 I’m currently learning **javascript ,python & DataStructure and Algorithm**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gvs9](https://github.com/gvs9)
 
