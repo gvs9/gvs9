@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@sakharkargitesh9](https://medium.com/@sakharkargitesh9)
 
-- 💬 Ask me about **JAVA,HTML,CSS**
+- 💬 Ask me about **JAVA,HTML,CSS,SQL,OS,CN**
 
 - 📫 How to reach me **sakharkargitesh9@gmail.com**
 
