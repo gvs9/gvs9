@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gvs9" alt="gvs9" /></a> </p>
 
-- 🔭 I’m currently working on **Python REST API CRUD Example using Flask and MySQL**
+- 🔭 I’m currently working on **Blogging Application Using React**
 
 - 🌱 I’m currently learning **javascript ,python & DataStructure and Algorithm**
 
