@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Blogging Application Using React**
 
-- 🌱 I’m currently learning **javascript ,python & DataStructure and Algorithm**
+- 🌱 I’m currently learning **System Design(LLD/HLD)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gvs9](https://github.com/gvs9)
 
